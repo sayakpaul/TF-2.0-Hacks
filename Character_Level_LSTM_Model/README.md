@@ -1,3 +1,3 @@
 While taking the [Intro to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188) course by Udacity, I really liked exercise that was based on building a character-level language model using LSTMs. I was unable to complete all on my own since NLP is still a very new field to me. I decided to give the exercise  a try with `tensorflow 2.0` and because of the ease of use you get in `keras`, I could develop a very simple LSTM-based language model able to predict a single character given a set of characters. 
 
-The exercise uses the **Anna Karenina** nodel written by Leo Tolstoy as its data. I used a small subset of it in this notebook, though. 
+The exercise uses the **Anna Karenina** novel, written by Leo Tolstoy as its data. I used a small subset of it in this notebook, though. 
