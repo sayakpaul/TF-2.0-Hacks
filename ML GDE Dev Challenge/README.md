@@ -1,0 +1,1 @@
+The folder contains the Jupyter Notebook of this blog [Predicting the publisher’s name from an article: A case study](https://medium.com/google-developer-experts/predicting-the-publishers-name-from-an-article-a-case-study-fd9e2ea8315d). 
