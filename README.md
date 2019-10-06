@@ -9,4 +9,5 @@ I highly recommend the following resources if you want to learn more about Tenso
 - [Inside TensorFlow: tf.Keras (part 2)](https://www.youtube.com/watch?v=uhzGTijaw8A)
 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python?tap_a=5644-dce66f&tap_s=357540-5b28dd)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
+- [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow)
 
