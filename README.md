@@ -1,7 +1,7 @@
 This respository contains my exploration of the newly released [TensorFlow 2.0](http://tensflow.org/). TensorFlow team introduced a lot of new and useful changes in this release; automatic mixed precision training, flexible custom  training, distributed GPU training, enhanced ops for the high-level Keras API are some of my personal favorites. 
 You can see all of the new changes [here ](https://www.youtube.com/watch?v=kPweUtct2yY). The library is now truly easy to use and very readable. 
 
-I highly recommend the following resources if you want to learn more about TensorFlow 2.0:
+I highly recommend the following resources if you want to learn more about TensorFlow 2.0 (updated on an ad-hoc basis):
 
 - [tf.keras for Researchers: Crash Course](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg) by Francois Chollet
 - [TensorFlow 2.0 + Keras Crash Course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO) by Francois Chollet
@@ -12,4 +12,5 @@ I highly recommend the following resources if you want to learn more about Tenso
 - [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) (article by me)
 - [Hands-On Machine Learning with Scikit-Learn, Keras and Tensor Flow: Concepts, Tools and Techniques to Build Intelligent Systems](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054) (best-selling book by Aurélien Géron)
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) by Udacity (Instructors: Magnus Hyttsten, Juan Delgado, Paige Bailey)
+- [Practical Machine Learning with Tensorflow](https://www.youtube.com/playlist?list=PLOzRYVm0a65cTV_t0BYj-nV8VX_Me6Es3) by NPTEL (Instructor: Ashish Tendulkar)
 
