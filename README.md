@@ -11,6 +11,7 @@ Apart from the official TensorFlow 2.0 [guide](https://www.tensorflow.org/guide)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice) by Coursera (Instructor: Laurence Moroney)
 - [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) (article by me)
 - [Hands-On Machine Learning with Scikit-Learn, Keras and Tensor Flow](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054) (best-selling book by Aurélien Géron)
+- [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/) by Adrian Rosebrock
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) by Udacity (Instructors: Magnus Hyttsten, Juan Delgado, Paige Bailey)
 - [Practical Machine Learning with Tensorflow](https://www.youtube.com/playlist?list=PLOzRYVm0a65cTV_t0BYj-nV8VX_Me6Es3) by NPTEL (Instructor: Ashish Tendulkar)
 - [Hands-On Neural Networks with TensorFlow 2.0](https://www.amazon.com/Hands-Neural-Networks-Tensorflow-2-0-dp-1789615550/dp/1789615550/) (book by Paolo Galeone)
