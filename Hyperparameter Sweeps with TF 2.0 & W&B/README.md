@@ -1,1 +1,0 @@
-This notebook is accompanied by this [Weights and Biases](https://www.wandb.com) artlce: [Running Hyperparameter Sweeps to Pick the Best Model](https://www.wandb.com/articles/running-hyperparameter-sweeps-to-pick-the-best-model-using-w-b).
