@@ -37,8 +37,7 @@ labels = ["T-shirt/top","Trouser","Pullover","Dress","Coat",
 configs = {
     'layers': 128,
     'batch_size': 64,
-    'epochs': 5,
-    'method': METHOD
+    'epochs': 5
 }
 
 # Initilize a new wandb run
