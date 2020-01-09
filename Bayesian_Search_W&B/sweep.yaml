@@ -1,0 +1,22 @@
+program: train.py
+method: random
+metric:
+  name: loss
+  goal: minimize
+parameters:
+  epochs:
+    distribution: int_uniform
+    min: 3
+    max: 20
+  layers:
+    distribution: int_uniform
+    min: 16
+    max: 512
+  method:
+    distribution: categorical
+    values:
+      - '"grid"'
+  batch_size:
+    distribution: int_uniform
+    min: 16
+    max: 64
