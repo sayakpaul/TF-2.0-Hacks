@@ -20,3 +20,4 @@ Apart from the official TensorFlow 2.0 [guide](https://www.tensorflow.org/guide)
 - [Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?](https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/) by PyImageSearch
 - [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 - [Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
+- [freeCodeCamp's Python Machine Learning course with TensorFlow 2.0](https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course/)
