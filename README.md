@@ -7,6 +7,7 @@ Apart from the official TensorFlow 2.0 [guide](https://www.tensorflow.org/guide)
 - [TensorFlow 2.0 + Keras Crash Course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO) by Francois Chollet
 - [Inside TensorFlow: tf.Keras (part 1)](https://youtu.be/UYRBHFAvLSs) by Francois Chollet
 - [Inside TensorFlow: tf.Keras (part 2)](https://www.youtube.com/watch?v=uhzGTijaw8A) by Francois Chollet
+- [Deep Learning with Python (second edition)](https://www.manning.com/books/deep-learning-with-python) by Francois Chollet
 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python?tap_a=5644-dce66f&tap_s=357540-5b28dd) by DataCamp (Instructor: Isaiah Hull)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice) by Coursera (Instructor: Laurence Moroney)
 - [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) (article by me)
