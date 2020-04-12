@@ -1,3 +1,5 @@
+![](https://i.ibb.co/LJdwtJ8/TF-Full-Color-Primary-Horizontal.png)
+
 This respository contains my exploration of the newly released [TensorFlow 2.0](http://tensflow.org/). TensorFlow team introduced a lot of new and useful changes in this release; automatic mixed precision training, flexible custom  training, distributed GPU training, enhanced ops for the high-level Keras API are some of my personal favorites. 
 You can see all of the new changes [here](https://www.youtube.com/watch?v=kPweUtct2yY). 
 
@@ -19,6 +21,7 @@ Apart from the official TensorFlow 2.0 [guide](https://www.tensorflow.org/guide)
 - [Hands-On Neural Networks with TensorFlow 2.0](https://www.amazon.com/Hands-Neural-Networks-Tensorflow-2-0-dp-1789615550/dp/1789615550/) (book by Paolo Galeone)
 - [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment) by Coursera (Instructor: Laurence Moroney)
 - [Customising your models with TensorFlow 2 Specialization](https://www.coursera.org/learn/customising-models-tensorflow2) by Imperial College of London
+- [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2) by Imperial College of London
 - [Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?](https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/) by PyImageSearch
 - [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 - [Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
