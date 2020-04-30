@@ -7,6 +7,8 @@ Apart from the official TensorFlow 2.0 [guide](https://www.tensorflow.org/guide)
 
 - [tf.keras for Researchers: Crash Course](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg) by Francois Chollet
 - [TensorFlow 2.0 + Keras Crash Course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO) by Francois Chollet
+- [Introduction to Keras for Researchers](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia) by Francois Chollet
+- [Introduction to Keras for Engineers](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve) by Francois Chollet
 - [Inside TensorFlow: tf.Keras (part 1)](https://youtu.be/UYRBHFAvLSs) by Francois Chollet
 - [Inside TensorFlow: tf.Keras (part 2)](https://www.youtube.com/watch?v=uhzGTijaw8A) by Francois Chollet
 - [Deep Learning with Python (second edition)](https://www.manning.com/books/deep-learning-with-python) by Francois Chollet
