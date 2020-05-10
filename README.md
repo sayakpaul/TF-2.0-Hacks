@@ -11,6 +11,8 @@ Apart from the official TensorFlow 2.0 [guide](https://www.tensorflow.org/guide)
 - [Introduction to Keras for Engineers](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve) by Francois Chollet
 - [Inside TensorFlow: tf.Keras (part 1)](https://youtu.be/UYRBHFAvLSs) by Francois Chollet
 - [Inside TensorFlow: tf.Keras (part 2)](https://www.youtube.com/watch?v=uhzGTijaw8A) by Francois Chollet
+- [keras.io exmples](https://keras.io/examples)
+- [keras.io guides](https://keras.io/guides)
 - [Deep Learning with Python (second edition)](https://www.manning.com/books/deep-learning-with-python) by Francois Chollet
 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python?tap_a=5644-dce66f&tap_s=357540-5b28dd) by DataCamp (Instructor: Isaiah Hull)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice) by Coursera (Instructor: Laurence Moroney)
