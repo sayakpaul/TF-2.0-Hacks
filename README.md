@@ -3,7 +3,7 @@
 This respository contains my exploration of the newly released [TensorFlow 2.0](http://tensflow.org/). TensorFlow team introduced a lot of new and useful changes in this release; automatic mixed precision training, flexible custom  training, distributed GPU training, enhanced ops for the high-level Keras API are some of my personal favorites. 
 You can see all of the new changes [here](https://www.youtube.com/watch?v=kPweUtct2yY). 
 
-Apart from the official TensorFlow 2.0 [guide](https://www.tensorflow.org/guide) and the [tutorials](https://www.tensorflow.org/tutorials), I highly recommend the following resources if you want to learn more about TensorFlow 2.0 (updated on an ad-hoc basis):
+Apart from the official TensorFlow 2.0 [guides](https://www.tensorflow.org/guide) and the [tutorials](https://www.tensorflow.org/tutorials), I highly recommend the following resources if you want to learn more about TensorFlow 2.0 (updated on an ad-hoc basis):
 
 - [tf.keras for Researchers: Crash Course](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg) by Francois Chollet
 - [TensorFlow 2.0 + Keras Crash Course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO) by Francois Chollet
