@@ -23,11 +23,11 @@ Apart from the official TensorFlow 2.0 [guides](https://www.tensorflow.org/guide
 - [Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 - [Practical Machine Learning with Tensorflow](https://www.youtube.com/playlist?list=PLOzRYVm0a65cTV_t0BYj-nV8VX_Me6Es3) by NPTEL (Instructor: Ashish Tendulkar)
 - [Hands-On Neural Networks with TensorFlow 2.0](https://www.amazon.com/Hands-Neural-Networks-Tensorflow-2-0-dp-1789615550/dp/1789615550/) (book by Paolo Galeone)
-- [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment) by Coursera (Instructor: Laurence Moroney)
-- [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2) by Imperial College of London
-- [Customising your models with TensorFlow 2 Specialization](https://www.coursera.org/learn/customising-models-tensorflow2) by Imperial College of London
-- [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2) by Imperial College of London
+- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment) by deeplearning.ai
+- [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/specializations/tensorflow2-deeplearning) by Imperial College of London
 - [Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?](https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/) by PyImageSearch
 - [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 - [Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 - [freeCodeCamp's Python Machine Learning course with TensorFlow 2.0](https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course/)
+- [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques) by deeplearning.ai
