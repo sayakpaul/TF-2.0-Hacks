@@ -15,7 +15,6 @@ Apart from the official TensorFlow 2.0 [guides](https://www.tensorflow.org/guide
 - [keras.io guides](https://keras.io/guides)
 - [Deep Learning with Python (second edition)](https://www.manning.com/books/deep-learning-with-python) by Francois Chollet
 - [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python?tap_a=5644-dce66f&tap_s=357540-5b28dd) by DataCamp (Instructor: Isaiah Hull)
-- [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice) by Coursera (Instructor: Laurence Moroney)
 - [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) (article by me)
 - [Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054) (best-selling book by Aurélien Géron)
 - [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/) by Adrian Rosebrock
@@ -23,7 +22,7 @@ Apart from the official TensorFlow 2.0 [guides](https://www.tensorflow.org/guide
 - [Intro to Machine Learning with TensorFlow Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 - [Practical Machine Learning with Tensorflow](https://www.youtube.com/playlist?list=PLOzRYVm0a65cTV_t0BYj-nV8VX_Me6Es3) by NPTEL (Instructor: Ashish Tendulkar)
 - [Hands-On Neural Networks with TensorFlow 2.0](https://www.amazon.com/Hands-Neural-Networks-Tensorflow-2-0-dp-1789615550/dp/1789615550/) (book by Paolo Galeone)
-- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) (previously known as _TensorFlow in Practice_)
 - [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment) by deeplearning.ai
 - [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/specializations/tensorflow2-deeplearning) by Imperial College of London
 - [Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?](https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/) by PyImageSearch
